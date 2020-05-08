@@ -1,0 +1,6 @@
+{
+    "name": "Fiber",
+    "activity": "with light",
+    "commandsdir": "./commands/",
+    "prefix": "$"
+}
